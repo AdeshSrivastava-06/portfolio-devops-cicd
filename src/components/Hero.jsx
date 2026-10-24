@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { ArrowRight, Download, Sparkles, Terminal } from 'lucide-react';
+import { ArrowRight, Download, Sparkles } from 'lucide-react';
 import { Github, Linkedin } from './SocialIcons';
 
 const Hero = () => {

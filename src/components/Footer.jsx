@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail, Heart } from 'lucide-react';
+import { Mail } from 'lucide-react';
 import { Github, Linkedin } from './SocialIcons';
 
 const Footer = () => {
